@@ -1,0 +1,174 @@
+body {
+    background: url('../img/techs/wp3774888.jpg')no-repeat center;
+    background-color: black;
+
+}
+
+#container {
+    width: 500px;
+    height: 387px;
+    background-color: rgba(37, 37, 37, 0.74);
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 110px;
+    margin-bottom: 120px;
+    background: -moz-linear-gradient(top, #2c2c2c 0%, #222222 50%, #252525 51%, #202020 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #272727), color-stop(50%, #292929), color-stop(51%, #207cca), color-stop(100%, #7db9e8));
+    background: -webkit-linear-gradient(top, #3a3a3a 0%, #000000 50%, #000000 51%, #202020 100%);
+    background: -o-linear-gradient(top, #000000 0%, #202020 50%, #000000 51%, #252525 100%);
+    background: -ms-linear-gradient(top, #333232 0%, #292929 50%, #2e2e2e 51%, #202020 100%);
+
+
+
+}
+
+#container img {
+    width: 25%;
+    border-radius: 50%;
+    padding: 0 180px;
+    margin-bottom: -130px;
+    text-align: center;
+
+
+
+
+}
+
+
+#name {
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    font-size: 0.9em;
+    padding: 120px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(231, 231, 231);
+
+
+
+}
+
+#icons i {
+    padding: 0 67px;
+    font-size: 1.7em;
+    bottom: 80px;
+    text-decoration: none;
+
+}
+
+
+
+#type input {
+
+    font-weight: bold;
+    width: 395px;
+    height: 20px;
+    /*background: rgba(0, 0, 0, 0.918);*/
+    color: rgba(3, 57, 156, 0.712);
+    border: none;
+    margin-left: -65px;
+    margin-bottom: -70px;
+    cursor: pointer;
+    border-radius: 10px 20px;
+    -webkit-border-radius: 10px;
+    background: -moz-linear-gradient(top, #202020 0%, 50%, #202020 51%, #202020 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #272727), color-stop(50%, #292929), color-stop(51%, #207cca), color-stop(100%, #7db9e8));
+    background: -webkit-linear-gradient(top, #000000 0%, #000000 50%, #000000 51%, #202020 100%);
+    background: -o-linear-gradient(top, #202020 0%, #202020 50%, #202020 51%, #202020 100%);
+    background: -ms-linear-gradient(top, #000000 0%, #202020 50%, #202020 51%, #202020 100%);
+
+
+
+
+
+
+
+
+
+
+
+}
+
+#rodape {
+    color: white;
+    text-align: center;
+    padding: 55px;
+    letter-spacing: 0.5em;
+
+
+
+}
+
+audio {
+    margin-bottom: -50px;
+    margin-left: -10px;
+    padding: 50px 0px;
+
+}
+
+.imge {
+    width: 30%;
+    height: 32%;
+    -webkit-transition: -webkit-transform .5s ease;
+    transition: transform .5s ease;
+    cursor: pointer;
+
+
+
+}
+
+.imge:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.menor {
+    font-size: 1em;
+}
+
+
+.steam {
+
+    text-align: center;
+
+}
+
+
+
+.discord {
+
+    margin: -30px;
+    width: 30%;
+    height: 32%;
+    -webkit-transition: -webkit-transform .5s ease;
+    transition: transform .5s ease;
+    cursor: pointer;
+}
+
+.discord:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+
+}
+
+.spotify {
+    margin: -30px;
+    text-align: right;
+ 
+ 
+}
+
+
+
+.preto {
+    color: green;
+}
+
+.amarelo {
+    color: yellow;
+}
+
+.azul {
+    color: rgb(4, 53, 189);
+}
+
+/* AUDIO PLAYER */
